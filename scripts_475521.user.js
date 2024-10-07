@@ -10,8 +10,8 @@
 // @grant        none
 // @license      MIT
 // @run-at       document-start
-// @downloadURL https://raw.githubusercontent.com/7Grn/greasyfork.org-edit/refs/heads/main/scripts_475521.user.js
-// @updateURL https://raw.githubusercontent.com/7Grn/greasyfork.org-edit/refs/heads/main/scripts_475521.user.js
+// @downloadURL https://raw.githubusercontent.com/7Grn/greasyfork.org-edit/main/scripts_475521.user.js
+// @updateURL https://raw.githubusercontent.com/7Grn/greasyfork.org-edit/main/scripts_475521.user.js
 // ==/UserScript==
 
 (function() {
