@@ -4,9 +4,9 @@
 // @version      0.2.1.7grn
 // @description  Change the difficult-to-use Twitter player to a native player.
 // @author       yakisova41.edit
-// @match        https://twitter.com/*
-// @match        https://x.com/*
-// @match        https:/X.com/*
+// @match        *://twitter.com/*
+// @match        *://x.com/*
+// @match        *://X.com/*
 // @grant        none
 // @license      MIT
 // @run-at       document-start
