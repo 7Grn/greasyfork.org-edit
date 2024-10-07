@@ -1,18 +1,17 @@
 // ==UserScript==
 // @name         improve Twitter Video Player.edit
-// @name:ja      improve Twitter Video Player.rdit
-// @namespace    https://yakisova.com
+// @namespace    yakisova.com.edit
 // @version      0.2.1.7grn
 // @description  Change the difficult-to-use Twitter player to a native player.
-// @description:ja 使いにくいTwitterの動画プレイヤーをネイティブプレイヤーに置き換えます。
-// @author       yakisova41
+// @author       yakisova41.edit
 // @match        https://twitter.com/*
 // @match        https://x.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
+// @match        https:/X.com/*
 // @grant        none
 // @license      MIT
-// @downloadURL https://github.com/7Grn/greasyfork.org_edit/raw/refs/heads/main/scripts_475521
-// @updateURL https://github.com/7Grn/greasyfork.org_edit/raw/refs/heads/main/scripts_475521
+// @run-at       document-start
+// @downloadURL https://raw.githubusercontent.com/7Grn/greasyfork.org-edit/refs/heads/main/scripts_475521.user.js
+// @updateURL https://raw.githubusercontent.com/7Grn/greasyfork.org-edit/refs/heads/main/scripts_475521.user.js
 // ==/UserScript==
 
 (function() {
