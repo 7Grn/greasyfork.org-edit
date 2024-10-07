@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         improve Twitter Video Player.edit
 // @namespace    yakisova.com.edit
-// @version      0.2.1.7grn
-// @description  Change the difficult-to-use Twitter player to a native player.
+// @version      0.2.1.7grn.12
+// @description  Change the difficult-to-use Twitter player to a native player
 // @author       yakisova41.edit
 // @match        *://twitter.com/*
 // @match        *://x.com/*
