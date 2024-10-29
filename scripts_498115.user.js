@@ -6,14 +6,11 @@
 // @match               https://x.com/*
 // @match               https://X.com/*
 // @match               https://twitter.com/*
-// @namespace           http://tampermonkey.net/
 // @license             MIT
 // @run-at              document-start
 // @require             https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/js/all.min.js
 // @resource            IMPORTED_CSS https://raw.githubusercontent.com/yossy17/twitter-kaizen/main/style.css
-// @grant               GM_addStyle
-// @grant               GM_getResourceText
-// @grant               GM_registerMenuCommand
+// @grant nome
 // @downloadURL https://github.com/7Grn/greasyfork.org-edit/raw/refs/heads/main/scripts_498115.user.js
 // @updateURL https://github.com/7Grn/greasyfork.org-edit/raw/refs/heads/main/scripts_498115.user.js
 // ==/UserScript==
