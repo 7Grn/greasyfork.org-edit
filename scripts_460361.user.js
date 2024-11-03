@@ -9,8 +9,8 @@
 // @namespace https://yt-returnname-api.pages.dev/extension/
 // @grant unsafeWindow
 // @license MIT
-// @downloadURL https://update.greasyfork.org/scripts/460361/Return%20YouTube%20Comment%20Username.user.js
-// @updateURL https://update.greasyfork.org/scripts/460361/Return%20YouTube%20Comment%20Username.meta.js
+// @downloadURL https://github.com/7Grn/greasyfork.org-edit/raw/refs/heads/main/scripts_460361.user.js
+// @updateURL https://github.com/7Grn/greasyfork.org-edit/raw/refs/heads/main/scripts_460361.user.js
 // ==/UserScript==
 
 // src/index.ts
