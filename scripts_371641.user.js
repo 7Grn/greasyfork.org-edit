@@ -9,8 +9,8 @@
 // @match        *://*/*
 // @grant        none
 // @run-at       document-start
-// @downloadURL https://update.greasyfork.org/scripts/371641/Video%20Background%20Play%20Fix.user.js
-// @updateURL https://update.greasyfork.org/scripts/371641/Video%20Background%20Play%20Fix.meta.js
+// @downloadURL https://raw.githubusercontent.com/7Grn/greasyfork.org-edit/main/scripts_371641.user.js
+// @updateURL https://raw.githubusercontent.com/7Grn/greasyfork.org-edit/main/scripts_371641.user.js
 // ==/UserScript==
 
 (function() {
