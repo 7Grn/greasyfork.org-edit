@@ -9,6 +9,7 @@
 // @match        *://*/*
 // @grant        none
 // @run-at       document-start
+// @homepage https://greasyfork.org/scripts/371641
 // @downloadURL https://raw.githubusercontent.com/7Grn/greasyfork.org-edit/main/scripts_371641.user.js
 // @updateURL https://raw.githubusercontent.com/7Grn/greasyfork.org-edit/main/scripts_371641.user.js
 // ==/UserScript==
