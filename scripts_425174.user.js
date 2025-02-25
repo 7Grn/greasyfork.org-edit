@@ -5,8 +5,8 @@
 // @match             *://*.lupicia.com/*
 // @match             *://*.tonya.co.jp/*
 // @match             *://*.monotaro.com/*
-// @match             *://*
-// @version           0.1.7.edit.3
+// @match             https://*
+// @version           0.1.7.edit.4
 // @description    This script is used to disable the anti-flicker snippet to bring the page load speed back to normal. (anti-flicker snippet: https://support.google.com/optimize/answer/7100284?hl=en )
 // @author            Jasaj
 // @downloadURL https://github.com/7grn/greasyfork.org-edit/raw/refs/heads/main/scripts_425174.user.js
