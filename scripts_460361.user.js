@@ -1,5 +1,7 @@
 // ==UserScript==
-// @match *://*.youtube.com/*
+// @match https://www.youtube.com/*
+// @match https://m.youtube.com/*
+// @match https://www.youtube-nocookies.com/*
 // @version 0.6.1.edit
 // @run-at document-start
 // @name Return YouTube Comment Username
