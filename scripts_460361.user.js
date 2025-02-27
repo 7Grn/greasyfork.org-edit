@@ -375,7 +375,7 @@ status: ${res.status}`),
     }
     async function fetchBrowse(id) {
       return await fetch(
-        `https://www.youtube.com/youtubei/v1/browse?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8&prettyPrint=false`,
+        `https://www.youtube.com/youtubei/v1/browse?key=AIzaSyBCnlZN1Fqn0muAM0Z9f5wUDYsX_7hUeWQ&prettyPrint=false`,
         {
           method: "POST",
           headers: {
