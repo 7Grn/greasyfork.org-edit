@@ -1,8 +1,7 @@
 // ==UserScript==
 // @match https://www.youtube.com/*
 // @match https://m.youtube.com/*
-// @match https://www.youtube-nocookies.com/*
-// @version 0.6.1.edit
+// @version 0.6.1.e13
 // @run-at document-start
 // @name Return YouTube Comment Username
 // @description This script replaces the "handle" in the YouTube comments section to user name
