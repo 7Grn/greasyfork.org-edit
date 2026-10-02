@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name                Twitter kaizen-498115
 // @description         Twitterの表示を改善するスクリプト
-// @version             2.3
-// @author              Yos_sy.edit
+// @version             2.3.edit.2
+// @author              Yos_sy / 7grn(for add "x.com")
 // @match               https://x.com/*
-// @match               https://X.com/*
 // @match               https://twitter.com/*
 // @license             MIT
 // @run-at              document-start
