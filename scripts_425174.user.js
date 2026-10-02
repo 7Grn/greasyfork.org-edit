@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name           Fuck anti-flicker snippet(edit)
+// @name           Fuck anti-flicker snippet (edit)
 // @namespace         jasaj.me
 // @match             *://*.mercari.com/*
 // @match             *://*.lupicia.com/*
 // @match             *://*.tonya.co.jp/*
 // @match             *://*.monotaro.com/*
 // @match             https://*
-// @version           0.1.7.edit.4
+// @version           0.1.7.5
 // @description    This script is used to disable the anti-flicker snippet to bring the page load speed back to normal. (anti-flicker snippet: https://support.google.com/optimize/answer/7100284?hl=en )
-// @author            Jasaj
+// @author            Jasaj / 7grn(for "match https://*" rule)
 // @downloadURL https://github.com/7grn/greasyfork.org-edit/raw/refs/heads/main/scripts_425174.user.js
 // @updateURL https://github.com/7grn/greasyfork.org-edit/raw/refs/heads/main/scripts_425174.user.js
 // ==/UserScript==
