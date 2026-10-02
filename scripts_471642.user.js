@@ -4,15 +4,15 @@
 // @description  Hide browser fingerprint. Derived from "No Fingerprint"
 // @author       janandreiiii / 7grn(for exclude "gitlab.com")
 // @match        *://*/*
-// @exclude https://gitlab.com/*
-// @exclude https://*.gitlab.com/*
+// @exclude      https://gitlab.com/*
+// @exclude      https://*.gitlab.com/*
 // @grant        none
 // @run-at       document-start
 // @noframes     false
 // @license      The Unlicense
 // @namespace    https://github.com/Sam0230
-// @downloadURL
-// @updateURL
+// @downloadURL https://github.com/7Grn/greasyfork.org-edit/raw/refs/heads/main/scripts_471642.user.js
+// @updateURL https://github.com/7Grn/greasyfork.org-edit/raw/refs/heads/main/scripts_471642.user.js
 // @original_downloadURL https://update.greasyfork.org/scripts/471642/Leave%20No%20Trace.user.js
 // @original_updateURL https://update.greasyfork.org/scripts/471642/Leave%20No%20Trace.meta.js
 
