@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name         Leave No Trace (edit)
-// @version      2.0.edit.2
+// @version      2.0.edit.3
 // @description  Hide browser fingerprint. Derived from "No Fingerprint"
 // @author       janandreiiii / 7grn(for exclude "gitlab.com")
 // @match        *://*/*
 // @exclude      https://gitlab.com/*
 // @exclude      https://*.gitlab.com/*
-// @exclude     https://act.hoyolab.com/*
-// @exclude     https://act.hoyoverse.com/*
-// @exclude     https://act.miyoushe.com/*
-// @exclude     https://act-webstatic.hoyoverse.com*
-// @exclude     https://webstatic.hoyoverse.com/*
+// @exclude      https://act.hoyolab.com/*
+// @exclude      https://act.hoyoverse.com/*
+// @exclude      https://act.miyoushe.com/*
+// @exclude      https://act-webstatic.hoyoverse.com*
+// @exclude      https://webstatic.hoyoverse.com/*
 // @grant        none
 // @run-at       document-start
 // @noframes     false
