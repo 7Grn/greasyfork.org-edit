@@ -11,7 +11,9 @@
 // @exclude     https://act.hoyolab.com/*
 // @exclude     https://act.hoyoverse.com/*
 // @exclude     https://act.miyoushe.com/*
-// @version     1.0.edit.1
+// @exclude     https://act-webstatic.hoyoverse.com*
+// @exclude     https://webstatic.hoyoverse.com/*
+// @version     1.0.edit.2
 // @run-at      document-start
 // ==/UserScript==
 (function() {
