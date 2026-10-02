@@ -1,11 +1,11 @@
 // ==UserScript==
 // @match https://www.youtube.com/*
 // @match https://m.youtube.com/*
-// @version 0.6.1.e13
+// @version 0.6.1.e14
 // @run-at document-start
 // @name Return YouTube Comment Username
 // @description This script replaces the "handle" in the YouTube comments section to user name
-// @author yakisova41.edit
+// @author yakisova41 / 7grn(for apikey) 
 // @namespace https://yt-returnname-api.pages.dev/extension/
 // @grant unsafeWindow
 // @license MIT
