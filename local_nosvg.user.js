@@ -5,6 +5,12 @@
 // @description  prevents the render svg elements and deletes or hide existing svg
 // @author       7grn
 // @match        *://*/*
+// @exclude      https://challenges.cloudflare.com/*
+// @exclude      https://*.challenges.cloudflare.com/*
+// @exclude      https://gitlab.com/*
+// @exclude      https://*.gitlab.com/*
+// @exclude      https://github.com/*
+// @exclude      https://*.github.com/*
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
