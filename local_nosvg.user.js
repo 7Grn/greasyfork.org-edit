@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         no svg
 // @namespace    https://violentmonkey.github.io
-// @version      1.0.1
+// @version      1.0.2
 // @description  prevents the render svg elements and deletes or hide existing svg
 // @author       7grn
 // @match        *://*/*
