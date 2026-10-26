@@ -8,12 +8,20 @@
 // @exclude     https://github.com/*
 // @exclude     https://www.shadertoy.com/*
 // @exclude     https://www.youtube.com/*
+// @exclude     https://get.webgl.org/*
 // @exclude     https://act.hoyolab.com/*
 // @exclude     https://act.hoyoverse.com/*
 // @exclude     https://act.miyoushe.com/*
-// @exclude     https://act-webstatic.hoyoverse.com*
+// @exclude     https://act-webstatic.hoyoverse.com/*
 // @exclude     https://webstatic.hoyoverse.com/*
-// @version     1.0.edit.2
+// @exclude     https://*.hoyoverse.com/*
+// @exclude     https://zawa-works.github.io/*
+// @exclude     https://www.derschmale.com/*
+// @exclude     https://madebyevan.com/*
+// @exclude     https://experiments.withgoogle.com/*
+// @exclude     https://www.enchase.space/*
+// @exclude     https://thorium.rocks/*
+// @version     1.0.edit.3
 // @run-at      document-start
 // ==/UserScript==
 (function() {
