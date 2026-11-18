@@ -21,6 +21,12 @@
 // @exclude     https://experiments.withgoogle.com/*
 // @exclude     https://www.enchase.space/*
 // @exclude     https://thorium.rocks/*
+// @exclude      *://github.com/*
+// @exclude      *://*.github.com/*
+// @exclude      *://github.githubassets.com/*
+// @exclude      *://*.githubassets.com/*
+// @exclude      *://raw.githubusercontent.com/*
+// @exclude      *://*.githubusercontent.com/*
 // @version     1.0.edit.3
 // @run-at      document-start
 // ==/UserScript==
