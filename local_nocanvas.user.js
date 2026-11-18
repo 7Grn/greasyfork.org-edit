@@ -11,10 +11,10 @@
 // @exclude      https://*.gitlab.com/*
 // @exclude      *://github.com/*
 // @exclude      *://*.github.com/*
-// @exclude      *://github.githubassets.com
-// @exclude      *://*.githubassets.com
-// @exclude      *://raw.githubusercontent.com
-// @exclude      *://*.githubusercontent.com
+// @exclude      *://github.githubassets.com/*
+// @exclude      *://*.githubassets.com/*
+// @exclude      *://raw.githubusercontent.com/*
+// @exclude      *://*.githubusercontent.com/*
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
