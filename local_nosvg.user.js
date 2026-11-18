@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         no svg
 // @namespace    https://violentmonkey.github.io
-// @version      1.0.2
+// @version      1.0.3
 // @description  prevents the render svg elements and deletes or hide existing svg
 // @author       7grn
 // @match        *://*/*
@@ -9,8 +9,12 @@
 // @exclude      https://*.challenges.cloudflare.com/*
 // @exclude      https://gitlab.com/*
 // @exclude      https://*.gitlab.com/*
-// @exclude      https://github.com/*
-// @exclude      https://*.github.com/*
+// @exclude      *://github.com/*
+// @exclude      *://*.github.com/*
+// @exclude      *://github.githubassets.com/*
+// @exclude      *://*.githubassets.com/*
+// @exclude      *://raw.githubusercontent.com/*
+// @exclude      *://*.githubusercontent.com/*
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
