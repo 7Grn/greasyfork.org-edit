@@ -9,8 +9,12 @@
 // @exclude      https://*.challenges.cloudflare.com/*
 // @exclude      https://gitlab.com/*
 // @exclude      https://*.gitlab.com/*
-// @exclude      https://github.com/*
-// @exclude      https://*.github.com/*
+// @exclude      *://github.com/*
+// @exclude      *://*.github.com/*
+// @exclude      *://github.githubassets.com
+// @exclude      *://*.githubassets.com
+// @exclude      *://raw.githubusercontent.com
+// @exclude      *://*.githubusercontent.com
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
