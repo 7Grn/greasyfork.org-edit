@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         no canvas, webgl
 // @namespace    https://violentmonkey.github.io
-// @version      1.0.0
+// @version      1.0.1
 // @description  block obtaining the 2d and webgl canvas and disables render
 // @author       7grn
 // @match        *://*/*
